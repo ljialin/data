@@ -1,0 +1,5 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 2105540608 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/jl16442/CIG2016_battlegame/toRun/OLMCTS_vs_COEV_1000x1000/build/hs_err_pid10985.log

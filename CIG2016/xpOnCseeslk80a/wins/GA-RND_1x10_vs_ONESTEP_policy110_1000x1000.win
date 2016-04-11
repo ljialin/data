@@ -1,0 +1,23 @@
+Player 1 draws at 151 with life 0
+Player 2 draws at 151 with life 0
+Player 1 draws at 80 with life 0
+Player 2 draws at 80 with life 0
+Player 1 draws at 93 with life 0
+Player 2 draws at 93 with life 0
+Player 1 draws at 61 with life 0
+Player 2 draws at 61 with life 0
+Player 1 draws at 101 with life 0
+Player 2 draws at 101 with life 0
+Player 1 draws at 219 with life 0
+Player 2 draws at 219 with life 0
+Player 1 draws at 80 with life 0
+Player 2 draws at 80 with life 0
+Player 1 draws at 102 with life 0
+Player 2 draws at 102 with life 0
+Player 1 draws at 96 with life 0
+Player 2 draws at 96 with life 0
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 1109393408 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/jl16442/CIG2016_battlegame/toRun/GA-RND_1x10_vs_ONESTEP_policy110_1000x1000/build/hs_err_pid10944.log

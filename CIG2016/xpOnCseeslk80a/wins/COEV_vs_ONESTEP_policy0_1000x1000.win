@@ -1,0 +1,9 @@
+Player 1 wins at 119 with life 10
+Player 2 loss at 119 with life 0
+Player 1 wins at 190 with life 10
+Player 2 loss at 190 with life 0
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 356515840 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/jl16442/CIG2016_battlegame/toRun/COEV_vs_ONESTEP_policy0_1000x1000/build/hs_err_pid10924.log
